@@ -15,6 +15,8 @@ This way, you can create as many bingo cards as you want.
 
 The rest of the buttons should be self-explanatory.
 
+I know your Browser don't like programs that won't be downloaded often, but it's really not a virus LUL.
+
 **OBS SETTINGS**
 
 To integrate the program into OBS, go to Sources and then add > Window Capture > Create new (name it as you like) and select "SimpleBingo."
