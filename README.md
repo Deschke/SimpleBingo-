@@ -1,10 +1,9 @@
 # SimpleBingo-
+
+![Screenshot 2023-10-24 101909](https://github.com/Deschke/SimpleBingo-/assets/98089818/0fdc2560-2d2a-4696-b582-7517b08c1bea)
+
 This is a simple bingo game for streamers and content creators. You can choose to display 1 - 10 squares, add as many points as you like in the text field, and then generate a random bingo card with completed points that you can mark off.
 Yes, it's that easy.
-
-For transparency:
-I wanted to create a bingo game like this for myself but couldn't find anything, so I turned to Chat GPT and ultimately this program was created. So, in this case, about 90% of the code was written by Chat GPT.
-Since I find it very practical in its current form, I wanted to make it available to everyone.
 
 **HOW TO USE:**
 
@@ -25,4 +24,13 @@ Right-click on the created window capture and choose Filters > Add > Color Key >
 Now, you can use "Pick Screen Color" to select and cut out the blue color range of the program or alternatively, enter the hex code #add8e6.
 Afterward, you can crop the window capture as per your preferences.
 
+If it's done it should look like this:
+
+![Screenshot 2023-10-24 102148](https://github.com/Deschke/SimpleBingo-/assets/98089818/7ff15480-7259-49aa-8cd1-b2ca107d388b)
+
+
 If you have any difficulties or have ideas/requests for improving the program, feel free to contact me.
+
+**For transparency:**
+I wanted to create a bingo game like this for myself but couldn't find anything, so I turned to Chat GPT and ultimately this program was created. So, in this case, about 90% of the code was written by Chat GPT.
+Since I find it very practical in its current form, I wanted to make it available to everyone.
