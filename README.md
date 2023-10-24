@@ -1,4 +1,4 @@
-# SimpleBingo-
+# SimpleBingo for Streamers
 
 ![Screenshot 2023-10-24 101909](https://github.com/Deschke/SimpleBingo-/assets/98089818/0fdc2560-2d2a-4696-b582-7517b08c1bea)
 
