@@ -9,9 +9,11 @@ Yes, it's that easy.
 # **HOW TO USE:**
 
 Within the text field, you can enter as many keywords or short phrases for your bingo card as you like. These should always be separated by a ",".
+
 When you click "Update Text," the text you entered will be transferred to the bingo squares. Every time you press "Shuffle," the card will be regenerated based on the existing text.
 
 If you click on a field with LMB it will be marked green and with RMB it will be default again.
+
 In the upper right corner of each bingo card, you can mark it as a favorite using the small yellow circle. 
 
 If you want to save your text for later or load a different one, you can do so using the "Save" and "Load" buttons.
