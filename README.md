@@ -1,8 +1,9 @@
 # SimpleBingo for Streamers
 
-![Screenshot 2023-10-24 101909](https://github.com/Deschke/SimpleBingo-/assets/98089818/0fdc2560-2d2a-4696-b582-7517b08c1bea)
+![image](https://github.com/Deschke/SimpleBingo-/assets/98089818/9d2426df-68e3-43dd-aba6-22ad2d9c4ab1)
 
-This is a simple bingo game for streamers and content creators. You can choose to display 1 - 10 squares, add as many points as you like in the text field, and then generate a random bingo card with completed points that you can mark off.
+
+This is a simple bingo game for streamers and content creators. You can choose to display 5 - 12 squares, add as many points as you like in the text field, and then generate a random bingo card with completed points that you can mark off.
 Yes, it's that easy.
 
 # **HOW TO USE:**
@@ -11,13 +12,13 @@ Within the text field, you can enter as many keywords or short phrases for your 
 When you click "Update Text," the text you entered will be transferred to the bingo squares. Every time you press "Shuffle," the card will be regenerated based on the existing text.
 
 If you click on a field with LMB it will be marked green and with RMB it will be default again.
+In the upper right corner of each bingo card, you can mark it as a favorite using the small yellow circle. 
 
 If you want to save your text for later or load a different one, you can do so using the "Save" and "Load" buttons.
 This way, you can create as many bingo cards as you want.
  
-The rest of the buttons should be self-explanatory.
 
-I know your Browser don't like programs that won't be downloaded often, but it's really not a virus LUL.
+I know your Computer don't like programs that won't be downloaded often, but it's really not a virus LUL.
 
 # **OBS SETTINGS**
 
